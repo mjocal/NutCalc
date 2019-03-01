@@ -8,6 +8,8 @@ package nutcalc;
 /**
  *
  * @author Majo Calderon
+ * 
+ * Aplicacion de prueba para elaborar calculos de dieta
  */
 public class NutCalc {
 
@@ -16,6 +18,9 @@ public class NutCalc {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        
     }
     
 }
